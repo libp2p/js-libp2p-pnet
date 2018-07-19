@@ -1,6 +1,6 @@
 {
   "name": "libp2p-pnet",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Private Network protection implementation",
   "leadMaintainer": "Jacob Heun <jacobheun@gmail.com>",
   "main": "src/index.js",
