@@ -10,6 +10,7 @@ Connection protection management for libp2p leveraging PSK encryption via XSalsa
 ## Table of Contents
 
 - [Usage](#usage)
+  - [Examples](#examples)
   - [Private Shared Keys (PSK)](#private-shared-keys)
   - [PSK Generation](#psk-generation)
 - [Contribute](#contribute)
@@ -22,6 +23,9 @@ const Protector = require('libp2p-pnet')
 const protector = new Protector(swarmKeyBuffer)
 const privateConnection = protector.protect(myPublicConnection, (err) => { })
 ```
+
+### Examples
+[Private Networks with IPFS](./examples/pnet-ipfs)
 
 ### Private Shared Keys
 
