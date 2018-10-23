@@ -48,12 +48,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ipfs/js-libp2p-pnet.git"
+    "url": "https://github.com/libp2p/js-libp2p-pnet.git"
   },
   "bugs": {
-    "url": "https://github.com/ipfs/js-libp2p-pnet/issues"
+    "url": "https://github.com/libp2p/js-libp2p-pnet/issues"
   },
-  "homepage": "https://github.com/ipfs/js-libp2p-pnet",
+  "homepage": "https://github.com/libp2p/js-libp2p-pnet",
   "contributors": [
     "Jacob Heun <jacobheun@gmail.com>",
     "Jacob Heun <jake@andyet.net>"
